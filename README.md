@@ -35,3 +35,22 @@
 
 - Compare default vs least-privilege token permissions
 - Break a workflow by over-restricting permissions (learning moment)
+
+## 3: Secrets Management & Secure Configuration
+
+### 📘 Content
+
+- GitHub Secrets types:
+    - Repository secrets
+    - Environment secrets
+    - Organization secrets
+- Masking secrets in logs
+- What NOT to store in secrets
+- Secrets vs Variables
+- Secret scanning & push protection
+
+### 🎬 Demo
+
+- Secret leakage example
+- Proper masking
+- Environment-based secret control (prod vs dev)
