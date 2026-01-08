@@ -4,7 +4,6 @@
 
 ### 📘 Content
 
-- What GitHub Actions is (runner, workflow, job, step)
 - CI/CD attack surface
 - Common CI/CD attacks:
     - Credential leakage
