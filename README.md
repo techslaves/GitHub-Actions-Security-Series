@@ -11,7 +11,6 @@
     - Dependency confusion
     - Runner compromise
 - Shared vs self-hosted runners
-- Real-world CI/CD breach examples
 
 ### 🎬 Demo
 
