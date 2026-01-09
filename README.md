@@ -52,3 +52,18 @@
 - Secret leakage example
 - Proper masking
 - Environment-based secret control (prod vs dev)
+
+## 5: Runner Security – GitHub-hosted vs Self-hosted
+
+### 📘 Content
+
+- GitHub-hosted runner isolation model
+- Risks of self-hosted runners
+- Ephemeral vs persistent runners
+- Network access risks
+- Running Actions inside containers
+
+### 🎬 Demo
+
+- Self-hosted runner misconfiguration
+- Hardening checklist for self-hosted runners
