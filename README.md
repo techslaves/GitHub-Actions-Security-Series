@@ -32,7 +32,7 @@
 ### 🎬 Demo
 
 - Compare default vs least-privilege token permissions
-- Break a workflow by over-restricting permissions (learning moment)
+- Break a workflow by over-restricting permissions
 
 ## 3: Secrets Management & Secure Configuration
 
